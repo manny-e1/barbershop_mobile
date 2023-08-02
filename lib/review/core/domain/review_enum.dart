@@ -1,0 +1,5 @@
+enum ReviewType {
+  barber,
+  shop
+}
+
